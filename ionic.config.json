@@ -1,0 +1,8 @@
+{
+  "name": "Second Shot ",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue-vite",
+  "id": "99ee5de3"
+}
